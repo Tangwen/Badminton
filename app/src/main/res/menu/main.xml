@@ -1,0 +1,40 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/action_sound"
+        android:icon="@mipmap/super_mono_3d_41"
+        android:title="@string/sound"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_nosound"
+        android:icon="@mipmap/super_mono_3d_42"
+        android:title="@string/nosound"
+        android:visible="false"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_up"
+        android:icon="@mipmap/super_mono_3d_part2_93"
+        android:title="@string/add"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_down"
+        android:icon="@mipmap/super_mono_3d_part2_94"
+        android:title="@string/miune"
+        android:visible="false"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_switch"
+        android:icon="@mipmap/super_mono_3d_part2_88"
+        android:title="@string/switch_score"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_clear"
+        android:icon="@mipmap/super_mono_3d_part2_96"
+        android:orderInCategory="100"
+        android:title="@string/action_clear"
+        app:showAsAction="ifRoom" />
+</menu>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">羽球計分雲</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_clear">清除</string>
+    <string name="username">UserName</string>
+
+    <string name="create">建立</string>
+    <string name="cancel">取消</string>
+    <string name="gameName">Demo Game</string>
+    <string name="choiceGame">選要Join的Game</string>
+    <string name="switch_score">對調</string>
+    <string name="sound">音效</string>
+    <string name="nosound">無音效</string>
+    <string name="add">加</string>
+    <string name="miune">減</string>
+    <string name="teamA">A</string>
+    <string name="teamB">B</string>
+</resources>
